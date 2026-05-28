@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "webble",
+    "slug": "webble",
+    "platforms": ["android", "ios", "web"],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
